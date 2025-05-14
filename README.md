@@ -239,5 +239,5 @@ Thank you for exploring Agri-Energy Connect! 🌍
 ## References
 
 Griffiths, I. (2019) *Programming C# 8.0*. Sebastopol, CA: O’Reilly Media.
-
-ChatGPT by OpenAI (2025) ChatGPT. Available at:(https://chatgpt.com/) (Accessed: 13 May 2025).
+Mrzygłód, K., 2022. Azure for Developers. 2nd ed. August: [Meeta Rajani]
+ChatGPT by OpenAI (2025) ChatGPT (Version 4.5). Available at:([https://chatgpt.com/](https://chatgpt.com/share/68246417-0794-800a-82fd-9bff07ee4447)) (Accessed: 13 May 2025).
