@@ -233,3 +233,11 @@ For questions, feedback, or support, feel free to reach out:
 Email: jrpillay7@gmail.com
 GitHub: Joshua29115
 Thank you for exploring Agri-Energy Connect! 🌍
+
+
+
+## References
+
+Griffiths, I. (2019) *Programming C# 8.0*. Sebastopol, CA: O’Reilly Media.
+
+ChatGPT by OpenAI (2025) ChatGPT. Available at:(https://chatgpt.com/) (Accessed: 13 May 2025).
